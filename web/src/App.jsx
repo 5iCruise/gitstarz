@@ -186,7 +186,7 @@ const ProjectShowcase = () => {
         <div className="min-h-screen bg-gray-50 py-12 px-4 sm:px-6 lg:px-8 relative">
             {/* GitHub Star Button - Top Right Corner */}
             <a
-                href="https://github.com/Mran/githubstartog"
+                href="https://github.com/5iCruise/gitstarz"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="absolute top-4 right-4 z-10 flex items-center space-x-2 bg-gray-800 text-white px-4 py-2 rounded-lg hover:bg-gray-700 transition-colors group"
