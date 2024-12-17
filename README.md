@@ -17,4 +17,4 @@
 
 ## Thanks
 
-1. 作者[gh-repo](https://github.com/githubstartog), [DEMO](https://githubstartog.pages.dev/)
+1. 作者[gh-repo](https://github.com/githubstartog) | [DEMO](https://githubstartog.pages.dev/)
