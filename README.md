@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="web/public/new.webp" alt="DEMO" width="100" height="100">
+  <img src="web/public/new.webp" alt="DW2025" width="100" height="100">
 </p>
 
 ## Project Description
