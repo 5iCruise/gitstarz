@@ -2,6 +2,8 @@
   <img src="web/public/new.webp" alt="DW2025" width="100" height="100">
 </p>
 
+[中文](./README_CN.md)
+
 ## Project Description
 
 **GitStarz Page** uses the Github API to get the starred projects of mine, generate a Markdown file and a frontend page based on the tags of the projects.
@@ -21,4 +23,4 @@
 
 ## Thanks
 
-1. 作者Mran [gh-repo](https://github.com/Mran/githubstartog)) | [DEMO](https://githubstartog.pages.dev/)
+1. Author Mran [gh-repo](https://github.com/Mran/githubstartog)) | [DEMO](https://githubstartog.pages.dev/)
