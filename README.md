@@ -23,4 +23,4 @@
 
 ## Thanks
 
-1. Author Mran [gh-repo](https://github.com/Mran/githubstartog)) | [DEMO](https://githubstartog.pages.dev/)
+1. Author Mran [gh-repo](https://github.com/Mran/githubstartog) | [DEMO](https://githubstartog.pages.dev/)
